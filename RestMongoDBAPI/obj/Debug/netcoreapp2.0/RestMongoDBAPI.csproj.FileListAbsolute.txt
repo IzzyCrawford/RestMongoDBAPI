@@ -1,0 +1,11 @@
+C:\Users\israel.crawford\source\repos\RestMongoDBAPI\RestMongoDBAPI\bin\Debug\netcoreapp2.0\RestMongoDBAPI.deps.json
+C:\Users\israel.crawford\source\repos\RestMongoDBAPI\RestMongoDBAPI\bin\Debug\netcoreapp2.0\RestMongoDBAPI.runtimeconfig.json
+C:\Users\israel.crawford\source\repos\RestMongoDBAPI\RestMongoDBAPI\bin\Debug\netcoreapp2.0\RestMongoDBAPI.runtimeconfig.dev.json
+C:\Users\israel.crawford\source\repos\RestMongoDBAPI\RestMongoDBAPI\bin\Debug\netcoreapp2.0\RestMongoDBAPI.dll
+C:\Users\israel.crawford\source\repos\RestMongoDBAPI\RestMongoDBAPI\obj\Debug\netcoreapp2.0\RestMongoDBAPI.csprojAssemblyReference.cache
+C:\Users\israel.crawford\source\repos\RestMongoDBAPI\RestMongoDBAPI\obj\Debug\netcoreapp2.0\RestMongoDBAPI.csproj.CoreCompileInputs.cache
+C:\Users\israel.crawford\source\repos\RestMongoDBAPI\RestMongoDBAPI\obj\Debug\netcoreapp2.0\RestMongoDBAPI.AssemblyInfoInputs.cache
+C:\Users\israel.crawford\source\repos\RestMongoDBAPI\RestMongoDBAPI\obj\Debug\netcoreapp2.0\RestMongoDBAPI.AssemblyInfo.cs
+C:\Users\israel.crawford\source\repos\RestMongoDBAPI\RestMongoDBAPI\bin\Debug\netcoreapp2.0\RestMongoDBAPI.pdb
+C:\Users\israel.crawford\source\repos\RestMongoDBAPI\RestMongoDBAPI\obj\Debug\netcoreapp2.0\RestMongoDBAPI.dll
+C:\Users\israel.crawford\source\repos\RestMongoDBAPI\RestMongoDBAPI\obj\Debug\netcoreapp2.0\RestMongoDBAPI.pdb
